@@ -1,0 +1,131 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "role": "user",
+      "address": {
+        "country": "Germany",
+        "city": "Gwenborough",
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "zipcode": "92998-3874"
+      }
+    }
+  ],
+  "artworks": [
+    {
+      "id": 4,
+      "category": "landscape",
+      "type": "acrylic on cardboard",
+      "title": "Duis aute irure dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "img": "https://m.media-amazon.com/images/I/71lW8XkDkYL._SL1024_.jpg",
+      "size": "50x50 cm",
+      "isAvailable": "Available",
+      "rating": 0,
+      "price": "45",
+      "currency": "USD"
+    },
+    {
+      "id": 5,
+      "category": "landscape",
+      "type": "oil on cardboard",
+      "title": "Neque porro quisquam est",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "img": "https://image.shutterstock.com/z/stock-photo--fluorite-oil-painting-conceptual-abstract-picture-of-the-eye-oil-painting-in-colorful-1445018480.jpg",
+      "size": "80x120 cm",
+      "isAvailable": "Available",
+      "rating": 0,
+      "price": 204,
+      "currency": "USD"
+    },
+    {
+      "id": 6,
+      "category": "Abstraction",
+      "type": "Oil painting",
+      "title": "Some updated title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "img": "https://i.pinimg.com/originals/80/d4/ac/80d4ac01636c365a0d24710daeb0eb38.jpg",
+      "size": "20x50 cm",
+      "isAvailable": "Unavailable",
+      "rating": 0,
+      "price": 87,
+      "currency": "USD"
+    },
+    {
+      "id": 7,
+      "category": "landscape",
+      "type": "oil on canvas",
+      "title": "Neque porro quisquam est",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "img": "https://avatars.mds.yandex.net/i?id=f88754810216ebb76117d633f535eab2-5680151-images-thumbs&n=13",
+      "size": "80x120 cm",
+      "isAvailable": "Available",
+      "rating": 0,
+      "price": 45,
+      "currency": "USD"
+    },
+    {
+      "id": 8,
+      "category": "abstraction",
+      "type": "acrylic on canvas",
+      "title": "Neque porro quisquam est",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "img": "https://avatars.mds.yandex.net/i?id=3827115f727b6093e3103060d094df4f-4589497-images-thumbs&n=13",
+      "size": "80x120 cm",
+      "isAvailable": "Available",
+      "rating": 0,
+      "price": 145,
+      "currency": "USD"
+    },
+    {
+      "id": 9,
+      "category": "abstraction",
+      "type": "oil on cardboard",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "img": "https://avatars.mds.yandex.net/i?id=b8e8e388fb8798c944f249347f6d3178-5540728-images-thumbs&n=13",
+      "size": "40x50 cm",
+      "isAvailable": "Available",
+      "rating": 0,
+      "price": 86,
+      "currency": "USD"
+    },
+    {
+      "id": 14,
+      "category": "abstraction",
+      "type": "acrylic on cardboard",
+      "title": "Neque porro quisquam est",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "img": "https://avatars.mds.yandex.net/i?id=f88754810216ebb76117d633f535eab2-5680151-images-thumbs&n=13",
+      "size": "80x120 cm",
+      "isAvailable": "Available",
+      "rating": 0,
+      "price": 45,
+      "currency": "USD"
+    },
+    {
+      "category": "abstraction",
+      "type": "oil on cardboard",
+      "title": "Ut enim ad minim veniam",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWGB2yaTdYt8ewDYkJgE2FAcpcgdlVc4xrug&usqp=CAU",
+      "size": "eswdfgw",
+      "isAvailable": "Unavailable",
+      "rating": 0,
+      "price": "12",
+      "currency": "USD",
+      "id": 15
+    }
+  ]
+}
